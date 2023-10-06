@@ -13,3 +13,5 @@ I am a Ph.D. student working on marine pollution. I work off the coast of Southe
 
 #### 🌱 I’m currently learning ...
 ... R! 
+
+![Deep Sea Barrels](https://ca-times.brightspotcdn.com/dims4/default/e163b4d/2147483647/strip/true/crop/1920x1080+0+0/resize/1200x675!/format/webp/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc6%2Ffe%2F2260daf84721a1d498e7e51f0742%2Fla-photos-handouts-628847-me-ddt-story05.JPG)
